@@ -1,4 +1,4 @@
-# Etecs-Data-Base-
+# Etecs-Data-Base
 <h3>repository for Data base codes maden in class.</h3>
 
 <ol>
